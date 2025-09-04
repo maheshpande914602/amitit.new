@@ -1,0 +1,186 @@
+[
+  {
+    "id": "java-foundations",
+    "title": "Java Foundations + Spring Boot",
+    "category": "Backend",
+    "summary": "Master Java, OOP, Collections, JDBC, JPA/Hibernate and build REST APIs with Spring Boot.",
+    "mode": "Online/Offline",
+    "duration": "10 weeks",
+    "schedule": "Mon\u2013Fri, 7\u20139 PM IST",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "REST API"
+    ],
+    "outcomes": [
+      "Write clean, testable Java",
+      "Build RESTful services",
+      "Deploy to cloud (Render/Heroku)",
+      "Crack Java interviews"
+    ],
+    "syllabus": [
+      "Core Java",
+      "OOP & Collections",
+      "JDBC & JPA",
+      "Spring Boot & REST",
+      "Security & JWT",
+      "Testing & CI/CD"
+    ],
+    "audience": "Beginners to intermediate developers aiming for backend roles.",
+    "nextBatch": "Oct 6, 2025",
+    "fees": 18000
+  },
+  {
+    "id": "dsa-interview",
+    "title": "Data Structures & Algorithms for Interviews",
+    "category": "Data Structures",
+    "summary": "Problem\u2011solving drills, patterns, and mock interviews to nail product company rounds.",
+    "mode": "Online",
+    "duration": "8 weeks",
+    "schedule": "Tue/Thu/Sat, 7\u20139 PM IST",
+    "tags": [
+      "DSA",
+      "Interviews",
+      "LeetCode"
+    ],
+    "outcomes": [
+      "Master patterns",
+      "Time/space complexity",
+      "System design intro",
+      "Mock interviews"
+    ],
+    "syllabus": [
+      "Arrays & Strings",
+      "Hashing",
+      "Two Pointers",
+      "Stacks & Queues",
+      "Trees & Graphs",
+      "DP Basics"
+    ],
+    "audience": "Students preparing for SDE interviews.",
+    "nextBatch": "Sep 15, 2025",
+    "fees": 14000
+  },
+  {
+    "id": "fullstack-react-java",
+    "title": "Full\u2011Stack: React + Spring Boot",
+    "category": "Programming",
+    "summary": "Build a complete full\u2011stack app: React on the frontend, Spring Boot on the backend.",
+    "mode": "Offline (Shegaon)",
+    "duration": "12 weeks",
+    "schedule": "Weekend batches",
+    "tags": [
+      "React",
+      "Spring Boot",
+      "Full\u2011Stack"
+    ],
+    "outcomes": [
+      "Modern React (hooks, router)",
+      "REST integration",
+      "Auth, forms, testing",
+      "Deploy full\u2011stack app"
+    ],
+    "syllabus": [
+      "React fundamentals",
+      "UI state & hooks",
+      "Routing & forms",
+      "API integration",
+      "Auth & guards",
+      "Testing & deploy"
+    ],
+    "audience": "Learners targeting end\u2011to\u2011end product skills.",
+    "nextBatch": "Oct 20, 2025",
+    "fees": 26000
+  },
+  {
+    "id": "frontend-angular",
+    "title": "Frontend Engineer: Angular",
+    "category": "Frontend",
+    "summary": "Angular, TypeScript, RxJS, and component architecture with real projects.",
+    "mode": "Online",
+    "duration": "8 weeks",
+    "schedule": "Mon/Wed/Fri, 8\u20139:30 PM IST",
+    "tags": [
+      "Angular",
+      "TypeScript",
+      "RxJS"
+    ],
+    "outcomes": [
+      "SPAs with Angular",
+      "State management",
+      "API integration",
+      "Unit testing"
+    ],
+    "syllabus": [
+      "TS basics",
+      "Components & modules",
+      "Services & HTTP",
+      "Routing",
+      "RxJS",
+      "Testing"
+    ],
+    "audience": "Developers moving into modern frontend roles.",
+    "nextBatch": "Sep 28, 2025",
+    "fees": 20000
+  },
+  {
+    "id": "python-essentials",
+    "title": "Python Essentials",
+    "category": "Programming",
+    "summary": "From zero to productive Python programming with projects.",
+    "mode": "Online/Offline",
+    "duration": "6 weeks",
+    "schedule": "Flexible",
+    "tags": [
+      "Python",
+      "Automation"
+    ],
+    "outcomes": [
+      "Write Pythonic code",
+      "Work with files/APIs",
+      "CLI apps",
+      "Intro to testing"
+    ],
+    "syllabus": [
+      "Syntax & data types",
+      "Files & modules",
+      "Packages & venv",
+      "APIs & requests",
+      "CLI projects",
+      "Testing basics"
+    ],
+    "audience": "Complete beginners or non\u2011CS backgrounds.",
+    "nextBatch": "Oct 2, 2025",
+    "fees": 12000
+  },
+  {
+    "id": "career-bootcamp",
+    "title": "Career Bootcamp: Resume + Mock Interviews",
+    "category": "Career",
+    "summary": "End\u2011to\u2011end career prep: ATS\u2011friendly resume, LinkedIn, and mock interviews.",
+    "mode": "Online",
+    "duration": "3 weeks",
+    "schedule": "Weeknights",
+    "tags": [
+      "Resume",
+      "Interview",
+      "LinkedIn"
+    ],
+    "outcomes": [
+      "ATS resume",
+      "STAR storytelling",
+      "Mock interviews",
+      "Offer negotiation"
+    ],
+    "syllabus": [
+      "Resume clinic",
+      "Portfolio & LinkedIn",
+      "Behavioral Qs",
+      "Mock Rounds",
+      "Negotiation"
+    ],
+    "audience": "Final\u2011year students & job switchers.",
+    "nextBatch": "Sep 22, 2025",
+    "fees": 7000
+  }
+]

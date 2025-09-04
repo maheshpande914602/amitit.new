@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dsa-roadmap",
+    "title": "A Practical DSA Roadmap for Product Interviews",
+    "excerpt": "Focus on patterns, not just problems. Here\u2019s how to drill efficiently.",
+    "date": "2025-08-20",
+    "html": "<p>Start with core patterns like two pointers, sliding window, hashing, and recursion. Practice via sets of escalating difficulty and conduct timed mocks.</p>"
+  },
+  {
+    "id": "spring-boot-checklist",
+    "title": "Spring Boot API Launch Checklist",
+    "excerpt": "Before you ship your API, run through this quick checklist.",
+    "date": "2025-08-05",
+    "html": "<ul><li>Profiles and config</li><li>Validation and error handling</li><li>Auth, rate limiting</li><li>Logging & metrics</li></ul>"
+  },
+  {
+    "id": "react-interview-questions",
+    "title": "10 React Questions You Must Master",
+    "excerpt": "From hooks to reconciliation\u2014be ready to explain the internals.",
+    "date": "2025-07-30",
+    "html": "<ol><li>Explain useEffect vs useLayoutEffect</li><li>Keys and reconciliation</li><li>Context vs Redux</li></ol>"
+  }
+]
